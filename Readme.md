@@ -1,4 +1,3 @@
-%%writefile README.md
 # API Vols NYC 2013 (nycflights13)
 
 ## Installation
